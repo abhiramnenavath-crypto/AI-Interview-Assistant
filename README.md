@@ -27,3 +27,11 @@ This project is an AI-based interview assistant that:
 ## Future Improvements
 - Convert into web app
 - Add real-time emotion tracking
+
+## How to Run
+
+1. Install required libraries:
+pip install opencv-python fer speechrecognition pyttsx3
+
+2. Run the program:
+python interview_bot.py
