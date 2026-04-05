@@ -24,16 +24,35 @@ This project is an AI-based interview assistant that:
 ## Current Version
 This version of the AI Interview Assistant includes:
 
-- 🎤 Voice output for asking interview questions  
-- 🧠 Answer analysis based on response length  
-- 📊 Feedback system to evaluate answers  
-- 🔁 Confidence scoring mechanism  
+- Voice output for asking interview questions  
+- Answer analysis based on response length  
+- Feedback system to evaluate answers  
+- Confidence scoring mechanism  
+
+## Demo
+
+Example Interaction:
+
+What is your name?
+  Abhiram
+
+Tell us about yourself:
+I am a student passionate about AI and development.
+
+Feedback:
+Your answer is perfect.
+
+Confidence Score: 3/4
+
+<img width="1920" height="1020" alt="Screenshot 2026-04-05 143001" src="https://github.com/user-attachments/assets/594f3b26-f225-4341-abc4-59eeb6b57ef7" />
 
 
 
 ## Future Improvements
-- Convert into web app
-- Add real-time emotion tracking
+- Voice input (speech recognition)
+- Emotion detection using webcam
+- Advanced answer analysis using NLP
+- GUI / Web application
 
 ## How to Run
 
