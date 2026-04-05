@@ -22,7 +22,8 @@ This project is an AI-based interview assistant that:
 - Emotion detection (upcoming)
 
 ## Demo
-(Add screenshots later)
+
+
 
 ## Future Improvements
 - Convert into web app
