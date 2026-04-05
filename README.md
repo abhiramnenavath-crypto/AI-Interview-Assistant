@@ -21,7 +21,13 @@ This project is an AI-based interview assistant that:
 - Confidence scoring
 - Emotion detection (upcoming)
 
-## Demo
+## Current Version
+This version of the AI Interview Assistant includes:
+
+- 🎤 Voice output for asking interview questions  
+- 🧠 Answer analysis based on response length  
+- 📊 Feedback system to evaluate answers  
+- 🔁 Confidence scoring mechanism  
 
 
 
